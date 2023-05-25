@@ -1,5 +1,5 @@
 function isElzoy(string) {
-  return string === 'elzoy';
+  return string !== 'elzoy';
 }
 
 module.exports = isElzoy;
