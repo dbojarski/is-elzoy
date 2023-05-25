@@ -1,0 +1,19 @@
+{
+  "name": "@elzoy/is-elzoy",
+  "version": "1.0.0",
+  "description": "checking if given string equals to elzoy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbojarski/is-elzoy.git"
+  },
+  "author": "Elzoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbojarski/is-elzoy/issues"
+  },
+  "homepage": "https://github.com/dbojarski/is-elzoy#readme"
+}
